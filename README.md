@@ -16,7 +16,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300A6D6.svg?style=for-the-badge&logo=Seaborn&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300A6D6.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-002060.svg?style=for-the-badge&logo=sap&logoColor=white)
 
 
 #### **📊 Data Science & Machine Learning**
@@ -47,6 +50,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+#### 🛠️ Enterprise & Business Solutions
+![SAP S4 HANA](https://img.shields.io/badge/SAP%20S/4HANA-0FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+
 
 ---
 
