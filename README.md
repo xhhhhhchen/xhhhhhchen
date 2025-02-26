@@ -70,8 +70,9 @@
 ---
 
 
-### 🎭 **Quotes & Inspiration**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎭 **Quote & Inspiration**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Trust%20in%20yourself%20and%20your%20abilities,%0Aeverything%20will%20come%20to%20place)  
+
 
 ---
 
