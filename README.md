@@ -1,8 +1,6 @@
 # 💫 About Me:
 ### Hi there! 👋  
 🔭 I'm **Xiao Hong**, an aspiring **Data Scientist** 🚀  
-
-💻 Currently working on **my own webpage**  
 🎈 Passionate about leveraging **data & machine learning** to drive **real-world impact**  
 
 ---
