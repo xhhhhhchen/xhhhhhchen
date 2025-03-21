@@ -83,11 +83,6 @@
 
 ---
 
-### 🔝 **Top Contributions**
-![](https://github-contributor-stats.vercel.app/api?username=xhhhhhchen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ### 🚀 **What’s Next?**
 🔹 **Learning:** MLOps & Model Deployment  
 🔹 **Working on:** Scalable ML APIs with FastAPI  
